@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+  <!-- 默认配置，只可以出现一次 -->
+  <default-config>
+    <property name="driverClass">com.mysql.jdbc.Driver</property>
+    <property name="jdbcUrl">jdbc:mysql://localhost:3306/db1</property>
+    <property name="user">root</property>
+    <property name="password">root</property>
+
+    <property name = "initialPoolSize">5</property>    //初始化申请连接数量
+    <property name ="maxPoolSize">10</property>          //最大连接数量
+    <property name="checkoutTimeout">3000</property>      //超时时间
+  </default-config>
+</c3p0-config>

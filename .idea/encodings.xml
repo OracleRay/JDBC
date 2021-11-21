@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JavaWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaWeb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../前端/src/xml/解析/jsoup/Demo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../前端/src/xml/解析/jsoup/Jsoup对象.java" charset="GBK" />
+  </component>
+</project>
